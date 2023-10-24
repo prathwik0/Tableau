@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "bb2c91ca45251071",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df4c7a344edc9b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c970a0e2b5e728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prog 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0053c115ef9fbd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7210d14ec5ab50e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060fe6702b8d8625",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c70b2c767ccfe8e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c73fef20b67af84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44c3bc39d44a32dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a91b5929fce8c1b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16811d507db6efe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prog 19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a10e85ab6e621c84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prog 19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "783345826d7e053e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8816f22a79ba928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prog 19.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78c970a0e2b5e728",
+  "lastOpenFiles": [
+    "Prog 3.md",
+    "Prog 1.md",
+    "Prog 20.md",
+    "lab manual.docx.pdf",
+    "Prog 19.md",
+    "_attach/19_trends.png",
+    "Prog 18.md",
+    "Prog 17.md",
+    "_attach/18_forecast.png",
+    "Prog 15.md",
+    "_attach/17_waterfall.png",
+    "Prog 16.md",
+    "_attach/16_hist.png",
+    "_attach/Pasted image 20231024221005.png",
+    "_temp/TempQues.md",
+    "_attach/15_gantchart.png",
+    "Prog 14.md",
+    "_attach/14_scatter.png",
+    "Prog 13.md",
+    "_attach/13_lineship.png",
+    "Prog 12.md",
+    "Prog 11.md",
+    "Prog 10.md",
+    "_attach/12_barchart.png",
+    "_attach/11_subcatfurniture.png",
+    "Prog 8.md",
+    "Prog 9.md",
+    "Tableau.md",
+    "Prog 7.md",
+    "Prog 6.md",
+    "Prog 4.md",
+    "Prog 5.md",
+    "Data&Prog/~Book1__20716.twbr",
+    "Tableau experiment cycle.pdf"
+  ]
+}

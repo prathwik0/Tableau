@@ -9,4 +9,4 @@ Use the Sample - Superstore data source to apply dimension filters on the averag
 Next, drag the AVG (profit) value to the filter pane. Choose Average as the filter mode. Next, choose "At least" and give a value to filter the rows, which meet these criteria.
 After completion of the above steps, we get the final view below showing only the subcategories whose average profit is greater than 20.
 
-![[8_filter.png]]
+![[9_avg.png]]

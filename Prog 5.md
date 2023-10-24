@@ -11,6 +11,4 @@ tags:
 - Drag the "Sales" field to the "Rows" shelf.
 - Right-click on the "Order Date" axis, and choose "Continuous," then select "Month" or "Exact Date" to group data by month.
 
->[!error] Might Be Wrong
-
 ![[5_Month&Sales.png]]
