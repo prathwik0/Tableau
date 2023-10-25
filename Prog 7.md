@@ -5,8 +5,9 @@ tags:
 ---
 >[!question] Using the Sample-superstore data source, apply sorting on the field named discount by using the dimensions order date and Subcategory
 
-Use the Sample - Superstore data source to apply dimension filters on the sub-category of products. We create a view for showing profit for each sub-category of products according to their shipping mode. For it, drag the dimension field “Sub-Category” to the Rows shelf and the measure field “profit” to the Columns shelf.
+1. Choosing a field to be sorted 
+2. Applying the sort using the sort dialog box. 
+3. Choose the sort order as ascending or descending 
+4. Choose the field on which to apply the sort.
 
-Next, drag the Sub-Category dimension to the Filters shelf to open the Filter dialog box. Click the None button at the bottom of the list to deselect all segments. Then, select the Exclude option in the lower right corner of the dialog box. Finally, select Labels and Storage and then click OK. The following screenshot shows the result with the above two categories excluded.
-
-![[7_dimension.png]]
+![[7_dim.png]]
